@@ -1,0 +1,6 @@
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180224_1.7_Assessment1_Console\20180224_1.7_Assessment1_Console\bin\Debug\20180224_1.7_Assessment1_Console.exe.config
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180224_1.7_Assessment1_Console\20180224_1.7_Assessment1_Console\bin\Debug\20180224_1.7_Assessment1_Console.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180224_1.7_Assessment1_Console\20180224_1.7_Assessment1_Console\bin\Debug\20180224_1.7_Assessment1_Console.pdb
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180224_1.7_Assessment1_Console\20180224_1.7_Assessment1_Console\obj\Debug\20180224_1.7_Assessment1_Console.csproj.CoreCompileInputs.cache
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180224_1.7_Assessment1_Console\20180224_1.7_Assessment1_Console\obj\Debug\20180224_1.7_Assessment1_Console.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180224_1.7_Assessment1_Console\20180224_1.7_Assessment1_Console\obj\Debug\20180224_1.7_Assessment1_Console.pdb
